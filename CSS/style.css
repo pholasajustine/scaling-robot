@@ -1,0 +1,32 @@
+@import url("components/avatar.css");
+@import url("components/cadre.css");
+
+#navbar{
+	background:transparent;
+}
+#maincontent{
+	background-image: url(japanese-cherry-trees-flowers-spring-japanese-flowering-cherry-54630.jpeg);
+	background-size: cover;
+	background-position: center center;
+	height: 400px;
+	position: relative;
+}
+
+h1,h2{
+	text-align: center;
+}
+
+.text-centered{
+	text-align: center;
+}
+.text-right{
+	text-align: right;
+}
+
+#newsletter{
+	text-align: center;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
